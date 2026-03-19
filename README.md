@@ -128,7 +128,7 @@ Segments include:
 
 ### Customer Lifetime Value Distribution
 
-![CLV Distribution](images/clv_distribution.png)
+![CLV Distribution](images/CLV_Distribution.png)
 
 ---
 
