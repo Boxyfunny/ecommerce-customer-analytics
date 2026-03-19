@@ -112,19 +112,19 @@ Segments include:
 
 ### Top Products by Revenue
 
-![Top Products](images\Top_Products_by_Revenue.png)
+![Top Products](images/Top_Products_by_Revenue.png)
 
 ### Revenue by Country
 
-![Country Revenue](images\Top_Countries_by_Revenue.png)
+![Country Revenue](images/Top_Countries_by_Revenue.png)
 
 ### Customer Segmentation
 
-![Customer Segments](images\Customer_Segment.png)
+![Customer Segments](images/Customer_Segment.png)
 
 ### Cohort Retention Analysis
 
-![Cohort Heatmap](images\Customer_Retention_Heatmap.png)
+![Cohort Heatmap](images/Customer_Retention_Heatmap.png)
 
 ### Customer Lifetime Value Distribution
 
