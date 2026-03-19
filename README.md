@@ -108,7 +108,7 @@ Segments include:
 
 ### Monthly Revenue Trend
 
-![Monthly Revenue](images\Monthly_Revenue_Trend.png)
+![Monthly Revenue](images/Monthly_Revenue_Trend.png)
 
 ### Top Products by Revenue
 
